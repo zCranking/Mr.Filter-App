@@ -1,0 +1,43 @@
+body{
+    background: url("Solid\ Color\ Wallpaper.jpg");
+}
+.h1{
+    font-size: 50px;
+    width: 50px;
+    margin: 0px;
+    height: 80px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 6px grey;
+}
+.heading_div{
+    float: none;
+    font-size: 20px;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 10px 10px 6px grey;
+}
+.heading_div2{
+    width: 400px;
+    font-size: 18px;
+    box-shadow: 7px 7px 6px grey;
+    border-radius: 5px;
+    color: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+    border: 1px solid;    
+}
+.copyright_footer{
+    position: fixed;
+    color: rgb(218, 252, 224);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(115, 130, 118);
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 10px 10px 6px grey;
+    margin-top: 150px;
+}
